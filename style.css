@@ -213,9 +213,20 @@ footer {
 }
 
 @media (max-width: 768px) {
-    #main-menu ul {
+    /* #main-menu ul {
         flex-direction: column;
         text-align: center;
+    } */
+
+    #main-menu ul {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 5px;
+        padding: 10px;
+    }
+    
+    #main-menu li {
+    margin: 0;
     }
 
     .hero-container {
