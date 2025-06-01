@@ -24,7 +24,7 @@ This updated version maintains the structure and general visual identity of the 
 
 ## Key Improvements
 
-- Semantic HTML: Converted div-heavy structure into appropriate elements (<header>, <nav>, <section>, <article>, <footer>, etc.)
+- Semantic HTML: Converted div-heavy structure into appropriate elements, including `<header>`, `<nav>`, `<section>`, `<article>`, and `<footer>` 
 - Responsive Design: Used flexbox and media queries to ensure the site adapts to various screen sizes
 - Content Realism: Replaced all placeholder text (e.g., "Lorem ipsum") with more meaningful copy
 - Visual Enhancements: Improved spacing, typography, and color contrast for better readability and accessibility
